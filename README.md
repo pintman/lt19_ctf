@@ -1,4 +1,4 @@
-# lt19_ctf
+# CTF der Labortage 2019 - WriteUps
 
 Während der [Labortage 2019](https://wiki.das-labor.org/w/Labortage_2019) 
 fand ein CTF statt. Write-Ups zu den 
